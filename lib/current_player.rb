@@ -3,4 +3,3 @@ def turn_count(board)
   board.each do |team|
     if team == "X" || team == "O"
       counter += 1
-    
