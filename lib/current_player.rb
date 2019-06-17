@@ -14,4 +14,5 @@ def current_player(board)
   else
     current_player ="X"
 end
-return c
+return current_player
+end
